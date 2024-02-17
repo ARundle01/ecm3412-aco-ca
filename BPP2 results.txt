@@ -1,0 +1,38 @@
+10 Ants, 0.5 Evap: [
+    Start Time: Sat Dec 25 2021, 00:31:00
+    Time: 27084, Fitness: 838740,
+    Time: 30836, Fitness: 808479,
+    Time: 35169, Fitness: 794181,
+    Time: 28999, Fitness: 843098,
+    Time: 31296, Fitness: 865500
+    End Time: Sun Dec 26 2021, 20:52:23
+]
+
+10 Ants, 0.9 Evap: [
+    Start Time: Sat Dec 25 2021, 00:34:38
+    Time: 28298, Fitness: 789882,
+    Time: 32922, Fitness: 809275,
+    Time: 35642, Fitness: 855987,
+    Time: 30195, Fitness: 838947,
+    Time: 32626, Fitness: 858936,
+    End Time: Sun Dec 26 2021, 20:55:59
+]
+
+100 Ants, 0.5 Evap: [
+    Start Time: Mon Dec 27 2021, 11:55:21
+    Time: 456994, Fitness: 792839,
+    Time: 457260, Fitness: 765279,
+    Time: 449562, Fitness: 772685,
+    Time: 455963, Fitness: 752643,
+    Time: 453782, Fitness: 757562,
+    End Time: Sat Jan 01 2022, 18:56:36
+]
+
+100 Ants, 0.9 Evap: [
+    Start Time: Mon Dec 27 2021, 11:55:53
+    Time: 459999, Fitness: 765653,
+    Time: 458267, Fitness: 787265,
+    Time: 446532, Fitness: 775642,
+    Time: 456231, Fitness: 765453,
+    Time: 432665, Fitness: 778643,
+    End Time: Sat Jan 01 2022, 19:42:33
